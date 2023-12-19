@@ -1,0 +1,4 @@
+Project technologies for java
+
+Jakarta EE using Spring Framework 6,
+Spring Boot 3, REST API, Maven 3, MySQL8 and JPA technologies.
