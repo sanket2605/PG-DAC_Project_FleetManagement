@@ -1,4 +1,10 @@
-Project technologies for java
+Project technologies for 
+Frontend
+- Node.js and ReactJS
 
-Jakarta EE using Spring Framework 6,
-Spring Boot 3, REST API, Maven 3, MySQL8 and JPA technologies.
+Backend
+- Jakarta EE using Spring Framework 6,
+- Spring Boot 3, REST API, Maven 3, MySQL8 and JPA technologies.
+
+DataBase Tech
+- MySQL
